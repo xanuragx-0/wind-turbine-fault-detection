@@ -1,5 +1,5 @@
 # Wind Turbine Multi-Fault Detection and Root Cause Analysis
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([Link-to-your-colab-file-in-github](https://github.com/xanuragx-0/wind-turbine-fault-detection/blob/main/Final_MVKDE.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xanuragx-0/wind-turbine-fault-detection/blob/main/Final_MVKDE.ipynb)
 
 ##  Overview
 Wind turbines require robust problem detection techniques to guarantee optimal performance and prevent costly downtime. This project implements a novel method for identifying multiple faults and determining the underlying causes in wind turbines. It accomplishes this by utilizing multivariate time series data and a model based on autoencoders to differentiate between normal operational anomalies and actual malfunctions. 
