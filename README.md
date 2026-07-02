@@ -1,10 +1,10 @@
 # Wind Turbine Multi-Fault Detection and Root Cause Analysis
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1npeUtciFzaFBblMKshx7EuTDhKL1RWbW?usp=sharing))]([Link-to-your-colab-file-in-github](https://github.com/xanuragx-0/wind-turbine-fault-detection/blob/main/Final_MVKDE.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Link-to-your-colab-file-in-github)
 
-## 📌 Overview
+##  Overview
 Wind turbines require robust problem detection techniques to guarantee optimal performance and prevent costly downtime. This project implements a novel method for identifying multiple faults and determining the underlying causes in wind turbines. It accomplishes this by utilizing multivariate time series data and a model based on autoencoders to differentiate between normal operational anomalies and actual malfunctions. 
 
-## 🔬 Based On
+##  Based On
 The methodologies and algorithms implemented in this repository are based on the research presented in:
 * **Title:** Multi fault detection and root cause analysis of wind turbine using Multivariate time series data based on autoencoder
 * **Authors:** Manisha Galphade, Valmik Nikam, Biplab Banerjee, Nilkamal More, Arvind W. Kiwelekar, Priyanka Sharma
@@ -25,8 +25,8 @@ This project utilizes a custom 4 MB dataset included directly in this repository
 ##  How to Run
 The easiest way to run this project is directly through Google Colab.
 1. Click the "Open in Colab" badge at the top of this README.
-2. Run the cells sequentially. 
-3. *Note: The notebook is configured to read the dataset directly from this repository's raw URL, so no local downloading is required.*
+2. Import the given dataset in Colab notebook to run the code.
+3. Run the cells sequentially.
 
 ##  Results & Key Findings
 * **Accuracy:** The proposed method achieved 94% precision, 93% recall, and an F1 score of 0.93.
